@@ -59,7 +59,8 @@ fastmcp dev Level2/weather_mcp.py
 4.client_agent.py
 Run the MCP client to query weather from the server:
 ```bash
-python Level2/client_agent.py
+cd Level2
+python client_agent.py
 ```
 
 
