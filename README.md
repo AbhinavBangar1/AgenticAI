@@ -33,9 +33,10 @@ pip install -r requirements.txt
 
 4.Add environment variables  
 create a file named .env in the root folder , in the folder add :  
+```bash
 GEMINI_API_KEY=your_gemini_api_key_here  
 OpenWeather_API_key=your_openweather_api_key_here  
-
+```
 
 ## Running the Scripts
 
